@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @alpagutbey
-- 👀 I’m interested in qgis, qwateer and qesg
+- 👀 I’m interested in qgis, qwater and qesg
